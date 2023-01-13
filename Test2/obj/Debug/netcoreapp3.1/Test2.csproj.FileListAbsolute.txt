@@ -1,0 +1,4 @@
+F:\Unity\Test№2\Test2\obj\Debug\netcoreapp3.1\Test2.csprojAssemblyReference.cache
+F:\Unity\Test№2\Test2\obj\Debug\netcoreapp3.1\Test2.csproj.CoreCompileInputs.cache
+F:\Unity\Test№2\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfoInputs.cache
+F:\Unity\Test№2\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfo.cs
